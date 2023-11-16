@@ -36,11 +36,11 @@ keyword:
  - pki
  - revocation
 venue:
-  group: LAMPS
+  group: WG
   type: Working Group
-  mail: lamps@ietf.org
-  arch: https://datatracker.ietf.org/wg/lamps/documents/
-  github: openca/draft-pala-ocsp-range-extension
+  mail: WG@example.com
+  arch: https://example.com/WG
+  github: USER/REPO
   latest: https://example.com/LATEST
 
 author:
