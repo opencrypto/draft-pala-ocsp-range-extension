@@ -19,35 +19,35 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "Range Queries Extension for OCSP"
+abbrev: "OCSP Range Queries"
+category: standard
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-pala-ocsp-range-extension
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: SECURITY
+workgroup: LAMPS Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - ocsp
+ - pki
+ - revocation
 venue:
-  group: WG
+  group: LAMPS
   type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
+  mail: lamps@ietf.org
+  arch: https://datatracker.ietf.org/wg/lamps/documents/
+  github: openca/draft-pala-ocsp-range-extension
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Massimiliano Pala
+    organization: CableLabs
+    email: m.pala@cablelabs.com
 
 normative:
 
